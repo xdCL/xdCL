@@ -63,13 +63,13 @@ Próximamente: **usar online** · **código fuente**
 </td>
 <td width="50%" valign="top">
 
-### 🏫 PCC
+### 📺 PCC
 
-**Utilidad para entornos educativos.**
+**Para proyectar o presentar cualquier cosa.**
 
-Proyecto interno orientado a resolver tareas cotidianas dentro de equipos y flujos de trabajo escolares.
+Una herramienta pensada para llevar contenido a una pantalla de forma simple: imágenes, avisos, material visual, presentaciones y otros contenidos que necesiten mostrarse sin complicar el flujo.
 
-**Estado:** ⚪ Proyecto interno
+**Estado:** 🟠 En desarrollo
 
 </td>
 </tr>
