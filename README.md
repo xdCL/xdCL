@@ -77,20 +77,7 @@ Una herramienta pensada para llevar contenido a una pantalla de forma simple: im
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-### 📰 Telacuento
-
-**Proyecto web de orientación periodística.**
-
-Una exploración de producto digital, contenidos y herramientas pensadas desde la comunicación.
-
-**Estado:** 🟠 En desarrollo
-
-Próximamente: **sitio** · **repositorio**
-
-</td>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🧪 Laboratorio
 
@@ -130,7 +117,6 @@ La arquitectura mantiene la filosofía de Josts:
 Josts      █████████████████░░░  v1.3 / piloto
 GeoSVG     ███████████░░░░░░░░░  en desarrollo
 Cosito     ██████████░░░░░░░░░░  en desarrollo
-Telacuento ████████░░░░░░░░░░░░  en desarrollo
 ```
 
 ---
